@@ -1,5 +1,5 @@
-# Read me
+### Read me
 
-# rails db:migrate
-## or
-# rake db:migrate
+### rails db:migrate
+#### or
+### rake db:migrate
