@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+
+ video {
+   box-shadow: 2px 2px 2px gray;
+   border: 1px solid black;
+ }

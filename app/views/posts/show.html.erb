@@ -1,7 +1,7 @@
 <p id="notice"><%= notice %></p>
 
-<p>
-  <strong>Video:</strong>
+<strong>Video</strong>
+<p class="videoWindow">
   <%= link_to @post.video_url.to_s do %>
   <%= video_tag(@post.video.to_s) %>
 </p>
